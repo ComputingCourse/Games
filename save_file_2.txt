@@ -1,0 +1,7 @@
+current level: 5
+level unlocked: 5
+coins: 180
+skulls: 0
+health: 3
+dificulty: 2
+dog: True
