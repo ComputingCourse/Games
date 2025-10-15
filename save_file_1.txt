@@ -1,7 +1,0 @@
-current level: 1
-level unlocked: 1
-coins: 115
-skulls: 1
-health: 2
-dificulty: 2
-dog: True
